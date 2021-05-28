@@ -22,25 +22,25 @@ Technical people working on blockchain smart contracts projects or on WASM runti
 Workshop. Lightning talks following with a hands-on hacking session and a short Q&A session.
 
 ## ATTENDEES (among others)
-- Team members from Parity, Wasmer.io, Ethereum/EWASM, Mozilla and Spacemesh
-- Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Rettig, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
+- Team members from Ethereum/EWASM, and Spacemesh, Fluence
+- Expected: Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Rettig, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
 
 
 ## COST
-This community event is free as in free beer, but to keep the quality of attendees consistent we ask you to apply. We have limited capacity of about 50 people for this event. Lunch, snacks, coffee and beer will be provided.
+The event is free of charge, if any cost, it might be shared between project participating.
 
 ## ATTENDING
-[Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform) space is limited to 50 people.
+[Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
 
 ## AGENDA
 Two packed days full of presentations and hands-on coding sessions.
-Browse the [full schedule](https://docs.google.com/spreadsheets/d/1HEsKdtzDHz_Gy-wGu9Z01yDDSdawvdylu9x_tdYFMO0/edit?usp=sharing).
+Browse the [full schedule 2019; 2021 TBD](https://docs.google.com/spreadsheets/d/1HEsKdtzDHz_Gy-wGu9Z01yDDSdawvdylu9x_tdYFMO0/edit?usp=sharing).
 
 ## VENUE
-[Full Node](https://www.fullnode.berlin/) Blockchain co-working space Berlin.
+[Online](https://hopin.com/)
 
 ## CALL FOR SPEAKERS
-We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSfiyAQuHpYMOIGqWvyj7gfqV9-fl6PXYyRzV6g0W2L4ktWmmQ/viewform).
+We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
 
 ## GET IN TOUCH
 This is a community event organized by people from Parity, 1kx, Ethereum, Mozilla, Full Node and Spacemesh. Get in touch with us here: [Gitter workshop chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).
