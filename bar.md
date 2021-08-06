@@ -1,7 +1,7 @@
 <img src="media/logo.png" width="100%" />
 
 WORKSHOP<br/>
-TBD SUMMER 2021<br/>
+September 15, 2021<br/>
 [ONLINE](https://hopin.com)<br/>
 
 - [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link)
