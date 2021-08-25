@@ -10,20 +10,22 @@
 - Share learnings and resources between projects
 
 ## CONFIRMED TALKS AND HANDS-ON HACKING SESSIONS
-- Wasmer.io: a wasm runtime for blockchains
-- Parity: Requirements for a wasm execution engine from blockchain perspective and the lightbeam wasm compiler
-- EWASM: project vision, status, plan and challenges
-- Mozilla: WASM beyond the browser and WASI
+- Wasmer.io
+- Spacemesh
+- Dfinity 
+- EWASM
+- Fluence
+- and more
 
 ## TARGET AUDIENCE
-Technical people working on blockchain smart contracts projects or on WASM runtimes, compilers and dev tools.
+Technical people working on blockchain smart contracts projects, web3 projects or on WASM runtimes, compilers and dev tools.
 
 ## FORMAT
 Workshop. Lightning talks following with a hands-on hacking session and a short Q&A session.
 
 ## ATTENDEES (among others)
-- Team members from Ethereum/EWASM, and Spacemesh, Fluence
-- Expected: Lin Clark, Till Schneidereit, Dan Gohman, Syrus Akbary, Alex Beregszaszi, Lane Rettig, Fredrik Harrysson, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
+- Team members from Parity, Wasmer.io, Ethereum/EWASM, Mozilla and Spacemesh
+- Andreas Rossberg, Syrus Akbary, Alex Beregszaszi, Pawel Bylica, Andrei Maboroda, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
 
 
 ## COST
@@ -33,11 +35,11 @@ The event is free of charge, if any cost, it might be shared between project par
 [Apply to attend](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
 
 ## AGENDA
-Two packed days full of presentations and hands-on coding sessions.
+A day of presentations and hands-on coding sessions.
 Browse the [full schedule 2019; 2021 TBD](https://docs.google.com/spreadsheets/d/1HEsKdtzDHz_Gy-wGu9Z01yDDSdawvdylu9x_tdYFMO0/edit?usp=sharing).
 
 ## VENUE
-[Online](https://hopin.com/)
+[Online](https://hopin.com//events/wasm-in-web3/)
 
 ## CALL FOR SPEAKERS
 We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
