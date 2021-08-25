@@ -1,4 +1,4 @@
-![](media/logo.png)
+![](media/Wasm in web3 22 sept.png)
 
 ## GOALS
 >Explore the key topics involved in building a modern blockchain smart contracts execution environment based on wasm technology.
