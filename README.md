@@ -13,7 +13,7 @@
 - Wasmer.io
 - Spacemesh
 - Dfinity 
-- EWASM
+- Ethereum
 - Fluence
 - and more
 
