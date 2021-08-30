@@ -15,7 +15,7 @@
 - Dfinity 
 - Ethereum
 - Fluence
-- and more
+And more...
 
 ## TARGET AUDIENCE
 Technical people working on blockchain smart contracts projects, web3 projects or on WASM runtimes, compilers and dev tools.
@@ -45,4 +45,4 @@ Browse the [full schedule 2019; 2021 TBD](https://docs.google.com/spreadsheets/d
 We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
 
 ## GET IN TOUCH
-This is a community event organized by people from Parity, 1kx, Ethereum, Mozilla, Full Node and Spacemesh. Get in touch with us here: [Gitter workshop chat channel](https://gitter.im/wasm-blockchain-2019-berlin/community).
+This is a community event organized by people from Fluence, Wasm and Spacemesh. Get in touch with us here: <coming soon>
