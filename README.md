@@ -42,7 +42,7 @@ Browse the [full schedule 2019; 2021 TBD](https://docs.google.com/spreadsheets/d
 [Online](https://hopin.com//events/wasm-in-web3/)
 
 ## CALL FOR SPEAKERS
-We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool Wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
+We have reserved few slots for additional speakers! If you are working on an interesting wasm related blockchain project or on a cool wasm tech which is applicable to blockchains then we please [apply to speak](https://docs.google.com/forms/d/e/1FAIpQLSczgq0BlWyGrfHq7U4FijTyOPLpfjVd8cLMLNncr4ERL74klA/viewform?usp=sf_link).
 
 ## GET IN TOUCH
-This is a community event organized by people from Fluence, Wasm and Spacemesh. Join our [Telegram group](https://t.me/joinchat/Iw4jCW3ryD1kZTVi) for the latest updates.
+This is a community event organized by people from Fluence, wasm and Spacemesh. Join our [Telegram group](https://t.me/joinchat/Iw4jCW3ryD1kZTVi) for the latest updates.
