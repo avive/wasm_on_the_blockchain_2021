@@ -1,4 +1,4 @@
-# Wasm on the Blockchain 2019
+# Wasm on the Blockchain 2021
 
 > The Guide
 
