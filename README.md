@@ -9,6 +9,7 @@
 - Spark collaboration on common cross-project VM and dev workflows specs
 - Share learnings and resources between projects
 
+
 ## CONFIRMED TALKS AND HANDS-ON HACKING SESSIONS
 - Wasmer.io
 - Spacemesh
