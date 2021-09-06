@@ -1,4 +1,4 @@
-<img src="media/logo.png" width="100%" />
+<img src="media/logo2021.png" width="100%" />
 
 WORKSHOP<br/>
 September 22, 2021<br/>
