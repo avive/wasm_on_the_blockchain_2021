@@ -27,7 +27,6 @@ Workshop. Lightning talks following with a hands-on hacking session and a short 
 - Team members from Parity, Wasmer.io, Ethereum/EWASM, Mozilla and Spacemesh
 - Andreas Rossberg, Syrus Akbary, Alex Beregszaszi, Pawel Bylica, Andrei Maboroda, Yaron Wittenstein, Aviv Eyal and many more wasm geeks...
 
-
 ## COST
 The event is free of charge, if any cost, it might be shared between project participating.
 
