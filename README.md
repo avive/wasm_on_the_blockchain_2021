@@ -36,7 +36,7 @@ The event is free of charge, if any cost, it might be shared between project par
 
 ## AGENDA
 A day of presentations and hands-on coding sessions.
-Browse the [full schedule 2019; 2021 TBD](https://docs.google.com/spreadsheets/d/1HEsKdtzDHz_Gy-wGu9Z01yDDSdawvdylu9x_tdYFMO0/edit?usp=sharing).
+Browse the [tentative full schedule 2021](https://docs.google.com/spreadsheets/d/1bHwa8GVjWECr9Hmq2EIGuz4e4K8QoLk_MGYoQFPUuBw/edit?pli=1#gid=0). Please check prior to the event for the final schedule.
 
 ## VENUE
 [Online](https://hopin.com//events/wasm-in-web3/)
