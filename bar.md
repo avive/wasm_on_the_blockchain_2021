@@ -1,7 +1,7 @@
 <img src="media/logo2021.png" width="100%" />
 
 WORKSHOP<br/>
-September 22, 2021<br/>
+September 22-23, 2021<br/>
 [ONLINE](https://hopin.com//events/wasm-in-web3/)<br/>
 
 - [Register as attendee](https://hopin.com//events/wasm-in-web3/)
